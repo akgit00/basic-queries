@@ -1,0 +1,2 @@
+SELECT CategoryName
+FROM Categories;
